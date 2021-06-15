@@ -1,0 +1,23 @@
+{
+	"insuranceType": "CarInsurance",
+	"FirstName": "Kittie",
+	"LastName": "Goddard",
+	"insuranceAmountRequested": 2500,
+	"insuranceCompanyName": "Yashir",
+	"insuranceData": [
+		{
+			"companyUserId": 9245,
+			"PrevinsuranceCompanyName": "Harel",
+			"RequestNumber": 5578,
+			"Previousinsurancenumber": 2435455,
+			"PrevinsuranceID": 47789,
+			"insuranceCompanyfee": "30"
+		}
+	],
+	"insuranceEnable": 1,
+	"dateofEnblment": "05012019",
+	"CarStatus": "accident",
+	"UserRank": "3",
+	"comment": "1 low , 2 mid , 3 high , 4 severe",
+	"message": "accident with car Golf in Tel Aviv"
+}

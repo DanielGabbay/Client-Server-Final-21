@@ -1,0 +1,250 @@
+{
+	"Low": [
+		{
+			"insuranceEnable": "0",
+			"StartInsuranceDate": "10042022",
+			"EndInsuranceDate": "Today",
+			"insuranceCompany": "Harel, Migdal, Menora",
+			"CarStatus": "NoClaims",
+			"UserRank": "1"
+		},
+		{
+			"insuranceEnable": 1,
+			"StartInsuranceDate": "01012019",
+			"EndInsuranceDate": "04032023",
+			"insuranceCompany": "Yashir",
+			"CarStatus": "NoClaims",
+			"UserRank": "1"
+		},
+		{
+			"insuranceEnable": 1,
+			"StartInsuranceDate": "08012018",
+			"EndInsuranceDate": "03072023",
+			"insuranceCompany": "Harel",
+			"CarStatus": "NoClaims",
+			"UserRank": "1"
+		},
+		{
+			"insuranceEnable": 1,
+			"StartInsuranceDate": "08072018",
+			"EndInsuranceDate": "01012018",
+			"insuranceCompany": "Yashir",
+			"CarStatus": "accident",
+			"UserRank": "1"
+		},
+		{
+			"insuranceEnable": 1,
+			"StartInsuranceDate": "07052018",
+			"EndInsuranceDate": "01052022",
+			"insuranceCompany": "Yashir",
+			"CarStatus": "accident",
+			"UserRank": "1"
+		},
+		{
+			"insuranceEnable": 1,
+			"StartInsuranceDate": "03062019",
+			"EndInsuranceDate": "05012019",
+			"insuranceCompany": "Harel",
+			"CarStatus": "accident",
+			"UserRank": "1"
+		},
+		{
+			"insuranceEnable": 1,
+			"StartInsuranceDate": "02092018",
+			"EndInsuranceDate": "09042022",
+			"insuranceCompany": "Harel",
+			"CarStatus": "new_Driver",
+			"UserRank": "1"
+		},
+		{
+			"insuranceEnable": 1,
+			"StartInsuranceDate": "05042018",
+			"EndInsuranceDate": "05022020",
+			"insuranceCompany": "Harel",
+			"CarStatus": "new_Driver",
+			"UserRank": "1"
+		}
+	],
+	"Mid": [
+		{
+			"insuranceEnable": 0,
+			"StartInsuranceDate": "01082016",
+			"EndInsuranceDate": "Today",
+			"insuranceCompany": "Harel, Migdal, Menora",
+			"CarStatus": "new_Driver",
+			"UserRank": "2"
+		},
+		{
+			"insuranceEnable": 1,
+			"StartInsuranceDate": "05062019",
+			"EndInsuranceDate": "07082020",
+			"insuranceCompany": "Yashir",
+			"CarStatus": "accident",
+			"UserRank": "2"
+		},
+		{
+			"insuranceEnable": 1,
+			"StartInsuranceDate": "01082020",
+			"EndInsuranceDate": "04032023",
+			"insuranceCompany": "Harel",
+			"CarStatus": "new_Driver",
+			"UserRank": "2"
+		},
+		{
+			"insuranceEnable": 1,
+			"StartInsuranceDate": "06092020",
+			"EndInsuranceDate": "04032021",
+			"insuranceCompany": "Migdal",
+			"CarStatus": "NoClaims",
+			"UserRank": "2"
+		},
+		{
+			"insuranceEnable": 1,
+			"StartInsuranceDate": "07012018",
+			"EndInsuranceDate": "09052019",
+			"insuranceCompany": "Harel",
+			"CarStatus": "NoClaims",
+			"UserRank": "2"
+		},
+		{
+			"insuranceEnable": 1,
+			"StartInsuranceDate": "03022019",
+			"EndInsuranceDate": "03092023",
+			"insuranceCompany": "Migdal",
+			"CarStatus": "accident",
+			"UserRank": "2"
+		},
+		{
+			"insuranceEnable": 1,
+			"StartInsuranceDate": "05052020",
+			"EndInsuranceDate": "05072020",
+			"insuranceCompany": "Harel",
+			"CarStatus": "NoClaims",
+			"UserRank": "2"
+		}
+	],
+	"High": [
+		{
+			"insuranceEnable": 0,
+			"StartInsuranceDate": "01082025",
+			"EndInsuranceDate": "01082016",
+			"insuranceCompany": "Tamir Car insurance",
+			"CarStatus": "NoClaims",
+			"UserRank": "3"
+		},
+		{
+			"insuranceEnable": 1,
+			"StartInsuranceDate": "05012019",
+			"EndInsuranceDate": "05072020",
+			"insuranceCompany": "Harel",
+			"CarStatus": "NoClaims",
+			"UserRank": "3"
+		},
+		{
+			"insuranceEnable": 1,
+			"StartInsuranceDate": "04042019",
+			"EndInsuranceDate": "05072020",
+			"insuranceCompany": "Harel",
+			"CarStatus": "NoClaims",
+			"UserRank": "3"
+		},
+		{
+			"insuranceEnable": 1,
+			"StartInsuranceDate": "04042019",
+			"EndInsuranceDate": "05072020",
+			"insuranceCompany": "Harel",
+			"CarStatus": "NoClaims",
+			"UserRank": "3"
+		},
+		{
+			"insuranceEnable": 1,
+			"StartInsuranceDate": "04042019",
+			"EndInsuranceDate": "05072020",
+			"insuranceCompany": "Harel",
+			"CarStatus": "NoClaims",
+			"UserRank": "3"
+		},
+		{
+			"insuranceEnable": 1,
+			"StartInsuranceDate": "04042019",
+			"EndInsuranceDate": "05072020",
+			"insuranceCompany": "Harel",
+			"CarStatus": "NoClaims",
+			"UserRank": "3"
+		},
+		{
+			"insuranceEnable": 1,
+			"StartInsuranceDate": "04042019",
+			"EndInsuranceDate": "05072020",
+			"insuranceCompany": "Harel",
+			"CarStatus": "NoClaims",
+			"UserRank": "3"
+		}
+	],
+	"Severe": [
+		{
+			"insuranceEnable": 1,
+			"StartInsuranceDate": "01082020",
+			"EndInsuranceDate": "Today",
+			"insuranceCompany": "Harel, Migdal, Menora",
+			"CarStatus": "accident",
+			"UserRank": "4"
+		},
+		{
+			"insuranceEnable": 1,
+			"StartInsuranceDate": "01082016",
+			"EndInsuranceDate": "Today",
+			"insuranceCompany": "Harel, Migdal, Menora",
+			"CarStatus": "accident",
+			"UserRank": "4"
+		},
+		{
+			"insuranceEnable": 1,
+			"StartInsuranceDate": "04042019",
+			"EndInsuranceDate": "05072020",
+			"insuranceCompany": "Harel",
+			"CarStatus": "NoClaims",
+			"UserRank": "4"
+		},
+		{
+			"insuranceEnable": 1,
+			"StartInsuranceDate": "04042019",
+			"EndInsuranceDate": "05072020",
+			"insuranceCompany": "Harel",
+			"CarStatus": "NoClaims",
+			"UserRank": "4"
+		},
+		{
+			"insuranceEnable": 1,
+			"StartInsuranceDate": "04042019",
+			"EndInsuranceDate": "05072020",
+			"insuranceCompany": "Harel",
+			"CarStatus": "NoClaims",
+			"UserRank": "4"
+		},
+		{
+			"insuranceEnable": 1,
+			"StartInsuranceDate": "04042019",
+			"EndInsuranceDate": "05072020",
+			"insuranceCompany": "Harel",
+			"CarStatus": "NoClaims",
+			"UserRank": "4"
+		},
+		{
+			"insuranceEnable": 1,
+			"StartInsuranceDate": "04042019",
+			"EndInsuranceDate": "05072020",
+			"insuranceCompany": "Harel",
+			"CarStatus": "NoClaims",
+			"UserRank": "4"
+		},
+		{
+			"insuranceEnable": 1,
+			"StartInsuranceDate": "04042019",
+			"EndInsuranceDate": "05072020",
+			"insuranceCompany": "Harel",
+			"CarStatus": "NoClaims",
+			"UserRank": "4"
+		}
+	]
+}
